@@ -1,0 +1,2 @@
+https://github.com/mosabua/ksoap2-android
+http://code.google.com/p/ksoap2-android/?
